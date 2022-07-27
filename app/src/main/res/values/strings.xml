@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="fun_off">off</string>
+    <string name="fun_low">1</string>
+    <string name="fun_medium">2</string>
+    <string name="fun_high">3</string>
+</resources>
